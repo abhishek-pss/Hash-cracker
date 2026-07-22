@@ -1,0 +1,7 @@
+# Hash-cracker dependencies
+#
+# The core tool (App.py) uses only Python's standard library
+# (re, os, hashlib, pathlib) — no third-party packages are required.
+#
+# This file is kept for future dependencies (e.g. if optional
+# algorithm support such as pycryptodome for LM hash is added).
